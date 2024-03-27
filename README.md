@@ -1,2 +1,4 @@
 # food-ordering-app
-An app for ordering food in a restaurant. 
+This is a program which helps you order food in a restaurant.
+
+
